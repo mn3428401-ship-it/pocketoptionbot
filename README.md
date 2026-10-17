@@ -1,0 +1,2 @@
+# pocketoptionbot
+Telegramtradingsignalbot
